@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rawtineofficial/static/css/main.073c9b0a.css",
-    "main.js": "/rawtineofficial/static/js/main.70955fb3.js",
-    "static/js/787.13d3bb58.chunk.js": "/rawtineofficial/static/js/787.13d3bb58.chunk.js",
-    "static/media/logo.svg": "/rawtineofficial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/rawtineofficial/index.html",
-    "main.073c9b0a.css.map": "/rawtineofficial/static/css/main.073c9b0a.css.map",
-    "main.70955fb3.js.map": "/rawtineofficial/static/js/main.70955fb3.js.map",
-    "787.13d3bb58.chunk.js.map": "/rawtineofficial/static/js/787.13d3bb58.chunk.js.map"
+    "main.css": "/rawtineofficial/src/App.js/static/css/main.073c9b0a.css",
+    "main.js": "/rawtineofficial/src/App.js/static/js/main.48014f28.js",
+    "static/js/787.13d3bb58.chunk.js": "/rawtineofficial/src/App.js/static/js/787.13d3bb58.chunk.js",
+    "static/media/logo.svg": "/rawtineofficial/src/App.js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rawtineofficial/src/App.js/index.html",
+    "main.073c9b0a.css.map": "/rawtineofficial/src/App.js/static/css/main.073c9b0a.css.map",
+    "main.48014f28.js.map": "/rawtineofficial/src/App.js/static/js/main.48014f28.js.map",
+    "787.13d3bb58.chunk.js.map": "/rawtineofficial/src/App.js/static/js/787.13d3bb58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.70955fb3.js"
+    "static/js/main.48014f28.js"
   ]
 }
